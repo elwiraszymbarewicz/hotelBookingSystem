@@ -42,6 +42,8 @@
     "tailwindcss": "^4.3.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.59.2",
-    "vite": "^8.0.12"
+    "vite": "^8.0.12",
+    "postcss": "^8.4.49",
+    "autoprefixer": "^10.4.20"
   }
 }
