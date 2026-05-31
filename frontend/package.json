@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "react": "^19.2.6",
-    "react-dom": "^19.2.6"
+    "react-dom": "^19.2.6",
+    "react-router-dom": "^7.2.0",
+    "axios": "^1.7.7",
+    "lucide-react": "^0.469.0",
+    "tailwindcss": "^4.1.8",
+    "clsx": "^2.1.1"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -25,6 +30,8 @@
     "globals": "^17.6.0",
     "typescript": "~6.0.2",
     "typescript-eslint": "^8.59.2",
-    "vite": "^8.0.12"
+    "vite": "^8.0.12",
+    "postcss": "^8.4.49",
+    "autoprefixer": "^10.4.20"
   }
 }
